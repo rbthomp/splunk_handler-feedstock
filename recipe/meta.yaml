@@ -42,6 +42,7 @@ about:
       of Splunk Enterprise. This logger requires the destination Splunk Enterprise 
       server to have enabled and configured the Splunk HTTP Event Collector.
 
+
 extra:
   recipe-maintainers:
     - sodre
